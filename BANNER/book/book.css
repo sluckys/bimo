@@ -1,0 +1,44 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	
+	
+}
+.wrapper
+{
+	background-color:rgb(91, 101, 79);
+}
+.h
+{
+	margin:0px;
+	padding-top: 50px;
+	font-family: 'Luckiest Guy', cursive;
+}
+.footer
+{
+	background-color:grey;
+}
+ul{
+	float: left;
+	list-style: none;
+	padding-left:120px;
+	font-style: none;
+	text-decoration: none;
+}
+ul li{
+	float: left;
+	text-decoration: none;
+	list-style: none;
+	font-style: none;
+	padding-left:50px;
+}
+ul li a{ 
+	float: left;
+	text-decoration: none;
+	font-style: none;
+	list-style: none;
+}
+ul li a:hover {
+    border-bottom: 3px solid rgb(135, 219, 250);
+}
