@@ -1,0 +1,32 @@
+body
+{
+    margin: 0;
+    padding:0;
+    font-family: 'Baloo Bhai', cursive;
+}
+.topnav a:hover {
+    border-bottom: 3px solid red;
+}
+
+
+section.sec1
+{
+    width:100%;
+    height: 100vh;
+    background: url('bimo1.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.sec2
+{
+    height: 200px;
+    width: 100%;
+    background-color:#ebebe0;
+}
+
+.sec2 h3{
+    font-family: 'Baloo Bhai', cursive;
+    padding-top: 30px;
+    padding-left: 630px;
+}
